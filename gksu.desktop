@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=gksu thunar
+Terminal=false
+Icon=/home/eric/Pictures/admin.png
+Icon[en_US]=/home/eric/Pictures/admin.png
+Name=gksu
+Name[en_US]=gksu
+GenericName=gksu
+Comment=Thunar's Admin Mode
+Comment[en_US]=Thunar's Admin Mode
+

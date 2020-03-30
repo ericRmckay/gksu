@@ -1,9 +1,7 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
 Version=1.0
 Type=Application
-Exec=gksu thunar
+Exec=pkexec thunar
 Terminal=false
 Icon=/opt/gksu/gksu.logo.black.png
 Name=gksu
